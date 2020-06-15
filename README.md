@@ -12,4 +12,4 @@ Este repositório tem por objetivo trazer vários exemplos introdutórios de Mac
 6. Redes Neurais Convolucionais
 7. Autoencoders
 8. Redes Neurais Recorrentes
-9. Aprendizado 
+9. Aprendizado por Transferência
